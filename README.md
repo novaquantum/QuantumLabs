@@ -1,2 +1,3 @@
 # QuantumLabs
-For alll my shitty code that I learn
+NQ Labs |
+Low Resolution Ultimate Deep Testing Facility 
